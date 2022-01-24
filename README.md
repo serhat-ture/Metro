@@ -9,6 +9,8 @@ The workspace contains two folders by default, where:
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
 
+For Begineers !!
+
 Metro Train Ticket System
 
 This system is very much easy and is user-friendly. The system gives gives to passenger four chooses.
